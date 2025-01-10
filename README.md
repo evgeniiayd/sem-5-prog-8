@@ -10,9 +10,11 @@
 
 ![image](https://github.com/user-attachments/assets/dafdf1bf-b46f-4315-90a2-5512fb3d8f34)
 
-Результат тестового Get-запроса для золотого и серебрянного уровней:
+Результат тестирования (код теста представлен в файле test_request, запрос был сделан с помощью библиотеки request), где последовательно происходят: 
+- сначала POST-запрос, с введением логина и пароля, а также получения токена,
+- после GET-запрос с помощью токена узнается уровень пользователя и количество потраченных денег.
 
-![image](https://github.com/user-attachments/assets/216c7cb4-61bf-47c1-8efb-a8719d97b8bc)
+![image](https://github.com/user-attachments/assets/6071800a-7334-4be0-a703-2e91fc3d8fe9)
 
-![image](https://github.com/user-attachments/assets/a9a2401b-bc9e-4340-bfa3-f115c2f8e6b2)
+
 
