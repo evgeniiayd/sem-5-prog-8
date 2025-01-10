@@ -16,5 +16,8 @@
 
 ![image](https://github.com/user-attachments/assets/6071800a-7334-4be0-a703-2e91fc3d8fe9)
 
+Тесты:
+
+![image](https://github.com/user-attachments/assets/fb7d2101-c342-4ed8-98f0-af8c03c94b22)
 
 
