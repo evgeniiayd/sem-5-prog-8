@@ -6,7 +6,7 @@
 
 Для реализации была использована библиотека SQLAlchemy.
 
-Запуск сервера и приложения.
+Запуск приложения.
 
 ![image](https://github.com/user-attachments/assets/dafdf1bf-b46f-4315-90a2-5512fb3d8f34)
 
